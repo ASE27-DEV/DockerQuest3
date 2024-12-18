@@ -1,0 +1,3 @@
+services:
+    app:
+        image: ase27/hello-app
